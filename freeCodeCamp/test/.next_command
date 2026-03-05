@@ -96,3 +96,4 @@ ls --color=auto
 cd..
 cd ..
 ls --color=auto
+more package.json
