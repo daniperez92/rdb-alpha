@@ -172,3 +172,4 @@ rm footer.jpeg
 ls --color=auto
 mv roboto.font rooto.woff
 mv rooto.woff roboto.woff
+ls --color=auto
