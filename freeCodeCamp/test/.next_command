@@ -160,3 +160,5 @@ ls --color=auto
 rm background.jpg
 rm .gitgnore
 ls --color=auto
+ls --color=auto -a
+cp header.png images
