@@ -112,3 +112,4 @@ more LICENSE-MIT
 clear
 help
 ls --color=auto
+cd src
