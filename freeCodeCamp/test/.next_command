@@ -162,3 +162,4 @@ rm .gitgnore
 ls --color=auto
 ls --color=auto -a
 cp header.png images
+cp footer.jpeg images
