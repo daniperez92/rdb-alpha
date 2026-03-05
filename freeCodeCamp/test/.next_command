@@ -107,3 +107,4 @@ ls --color=auto
 touc README.md
 touch README.md
 more README.md
+ls --color=auto
