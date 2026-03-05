@@ -133,3 +133,4 @@ touch index.js
 touch .gitgnore
 touch .gitignore
 ls --color=auto
+ls --color=auto --help
