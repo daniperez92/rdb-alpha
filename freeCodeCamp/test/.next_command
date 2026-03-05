@@ -113,3 +113,4 @@ clear
 help
 ls --color=auto
 cd src
+pwd
